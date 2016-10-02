@@ -30,13 +30,7 @@ Already installed Visual Studio? Well you can alter it from the Apps & Features 
 ## Setting up the solution
 
 
-{% highlight c# %}
-string val = new string();
-return val.ToString();
-{% endhighlight %}
-
-
 ## See also
 [Installing the SDK](https://msdn.microsoft.com/en-us/library/mt683786.aspx)
 
-[vs-setup](/images/2016-10-01-Building-A-Visual-Studio-Extension/setup.png "Visual Studio Setup")
+[vs-setup]: /images/2016-10-01-Building-A-Visual-Studio-Extension/setup.png "Visual Studio Setup"

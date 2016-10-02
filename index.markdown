@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Maartens blog
 ---
 
 
