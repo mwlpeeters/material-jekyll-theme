@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mwlpeeters.github.io" # the base hostname & protocol for your site
 
 theme: minima
+themeColor: blue #purple, green, blue, orange, purple, grey
 
 # Social
 githubUsername: mwlpeeters
@@ -32,7 +33,7 @@ codepenUsername:
 markdown: kramdown
 
 
-#themeColor: purple # green, blue, orange, purple, grey
+
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
