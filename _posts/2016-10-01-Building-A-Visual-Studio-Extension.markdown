@@ -21,11 +21,11 @@ Here is a simple shopping list:
 
 - Visual Studio 2015 with the ''Visual Studio Extensibility Tools''
 ... This SDK is available in all Visual Studio editions except Express and since Visual Studio 2015 it can only be installed during the installation of Visual Studio itself.
-- 
+... ![alt text][vs-setup]{: .small}
 
-![alt text][vs-setup]
+> Already installed Visual Studio? Well you can alter it from the Apps & Features page in the Configuration Panel.
 
-Already installed Visual Studio? Well you can alter it from the Apps & Features page in the Configuration Panel.
+- A Visual Studio Extension called [`Reset Experimental Instance`](https://visualstudiogallery.msdn.microsoft.com/ca73dffb-0ab4-4b94-a45a-f288112120a3)
 
 ## Setting up the solution
 
