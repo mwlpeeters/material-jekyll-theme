@@ -21,9 +21,9 @@ Here is a simple shopping list:
 
 - Visual Studio 2015 with the ''Visual Studio Extensibility Tools''
 
-... This SDK is available in all Visual Studio editions except Express and since Visual Studio 2015 it can only be installed during the installation of Visual Studio itself.
+This SDK is available in all Visual Studio editions except Express and since Visual Studio 2015 it can only be installed during the installation of Visual Studio itself.
 
-...![alt text][vs-setup]{: .small}
+![alt text][vs-setup]{: .small}
 
 > Already installed Visual Studio? Well you can alter it from the Apps & Features page in the Configuration Panel.
 
