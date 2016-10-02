@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <article role="article" markdown="1">
 {:refdef: class="image-parent"}
-![Author Photo](/css/images/avatar.jpg){: .author-photo}
+![Author Photo](/images/profile/me.jpg){: .author-photo}
 {: refdef}
 
 Hi there, I am Maarten Peeters and I love programming. I started programming at the age of 15 using an old 8086 with DOS 3 dot something. At first using GW Basic and Quick Basic later on using Visual Basic 1. In my professional life I have been using Delphi, Visual Basic 6 and in the last decade C#.
