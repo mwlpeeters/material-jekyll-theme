@@ -32,8 +32,6 @@ codepenUsername:
 # Build settings
 markdown: kramdown
 
-
-
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
