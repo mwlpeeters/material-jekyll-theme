@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Visual Studio 
+title: Building a Visual Studio Extension
 description: Some basic prerequisites for building a Visual Studio extension
 ---
 
