@@ -3,7 +3,7 @@ layout: page
 title: Maartens blog
 ---
 
-
+Welcome on my blog, here you will mostly find articles that are C# related. Each article will start with the `End state` so you can quickly see what you will gain by reading the article.
 
 {% for post in site.posts | limit:3   %}
 {% if forloop.first %}
