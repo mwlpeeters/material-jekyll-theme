@@ -40,5 +40,6 @@ include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
+  sass_dir: _sass
 gems:
   - jekyll-sitemap
