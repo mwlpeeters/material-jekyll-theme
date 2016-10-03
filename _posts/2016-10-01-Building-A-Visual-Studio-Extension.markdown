@@ -40,6 +40,18 @@ This SDK is available in all Visual Studio editions except Express and since Vis
 
 ## Setting up the solution
 
+1. Create a new project
+2. In the template tree navigate to *Templates > Visual Studio C# > Extensibility*
+![alt text][template-tree]{: .small}  
+3. Select the `VSIX Project`
+![alt text][project-type]{: .small}
+4. Give the project (and solution) a name
+
+You should now have a project which can be used to create Visual Studio Extensions.
+
+![alt text][sample-solution]{: .small}
+
+
 
 > TODO: I'm still working on this article, stay tuned
 
@@ -48,3 +60,6 @@ This SDK is available in all Visual Studio editions except Express and since Vis
 [Installing the SDK](https://msdn.microsoft.com/en-us/library/mt683786.aspx)
 
 [vs-setup]: /images/2016-10-01-Building-A-Visual-Studio-Extension/setup.png "Visual Studio Setup"
+[template-tree]: /images/2016-10-01-Building-A-Visual-Studio-Extension/template-tree.png "Template tree"
+[project-type]: /images/2016-10-01-Building-A-Visual-Studio-Extension/project-type.png "VSIX Project Type"
+[sample-solution]: /images/2016-10-01-Building-A-Visual-Studio-Extension/sample-solution.png "Sample solution"
